@@ -1,0 +1,65 @@
+{
+  "data": {
+    "users": {
+      "62881036690566@s.whatsapp.net": {
+        "afkTime": -1,
+        "afkReason": "",
+        "limit": "Infinity"
+      },
+      "6285858132955@s.whatsapp.net": {
+        "afkTime": -1,
+        "afkReason": "",
+        "limit": 100
+      },
+      "6285843978397@s.whatsapp.net": {
+        "afkTime": -1,
+        "afkReason": "",
+        "limit": 100
+      },
+      "6281235380016@s.whatsapp.net": {
+        "afkTime": -1,
+        "afkReason": "",
+        "limit": 100
+      },
+      "6285895088340@s.whatsapp.net": {
+        "afkTime": -1,
+        "afkReason": "",
+        "limit": 100
+      },
+      "6283849444964@s.whatsapp.net": {
+        "afkTime": -1,
+        "afkReason": "",
+        "limit": 100
+      },
+      "6285730428079@s.whatsapp.net": {
+        "afkTime": -1,
+        "afkReason": "",
+        "limit": 100
+      }
+    },
+    "chats": {
+      "62881036690566@s.whatsapp.net": {},
+      "62881036690566-1631675091@g.us": {},
+      "6285608157518-1591376543@g.us": {}
+    },
+    "sticker": {},
+    "database": {},
+    "game": {},
+    "settings": {},
+    "others": {}
+  },
+  "adapter": {
+    "adapter": {
+      "filename": "Database/database.json",
+      "writer": {
+        "locked": false,
+        "prev": null,
+        "next": null,
+        "nextPromise": null,
+        "nextData": null,
+        "filename": "Database/database.json",
+        "tempFilename": "Database/.database.json.tmp"
+      }
+    }
+  }
+}
