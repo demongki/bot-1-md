@@ -14,9 +14,9 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['62881036690566']
-global.premium = ['62881036690566']
-global.packname = 'Zakky'
+global.owner = ['6282288783972']
+global.premium = ['6282288783972']
+global.packname = 'Yudha'
 global.author = 'WhatsApp Bot'
 global.sessionName = 'zakbotz'
 global.email = 'tesheroku123@gmail.com'
