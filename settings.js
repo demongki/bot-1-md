@@ -14,10 +14,10 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6282288783972']
-global.premium = ['6282288783972']
-global.packname = 'Yudha'
-global.author = 'WhatsApp Bot'
+global.owner = ['62881038062602']
+global.premium = ['62881038062602']
+global.packname = 'Toenixz'
+global.author = 'ToenixzBotz'
 global.sessionName = 'zakbotz'
 global.email = 'tesheroku123@gmail.com'
 global.yt = 'https://youtube.com/channel/gapunya'
@@ -37,9 +37,9 @@ global.mess = {
 }
 global.limitawal = {
     premium: "Infinity",
-    free: 100
+    free: 150
 }
-global.thumb = fs.readFileSync('./Image/kirbotz.jpg')
+global.thumb = fs.readFileSync('./Image/naruto.jpg')
 
 let file = require.resolve(__filename)
 fs.watchFile(file, () => {
